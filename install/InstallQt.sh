@@ -1,4 +1,4 @@
-!#bin/bash
+#!/usr/bin/env bash
 
 sudo apt-get install -y -f qtcreator
 sudo apt-get install -y -f qtbase5-dev

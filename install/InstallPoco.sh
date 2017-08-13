@@ -1,4 +1,4 @@
-!#bin/bash
+#!/usr/bin/env bash
 
 sudo apt-get install -y -f openssl libssl-dev
 sudo apt-get install -y -f libiodbc2 libiodbc2-dev

@@ -1,4 +1,4 @@
-!#bin/bash
+#!/usr/bin/env bash
 
 sudo apt-get install -y -f build-essential
 sudo apt-get install -y -f cmake
